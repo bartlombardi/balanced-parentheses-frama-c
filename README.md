@@ -1,6 +1,6 @@
 # Balanced Parentheses Frama-c 
 
-Frama-C code which proves the total correctness of a program which verifies if parentheses are balanced.<br><br>
+Frama-C code which proves the total correctness of a program which verifies if parentheses are balanced.<br>
 University of Parma - Computer Science <br>
 Project of Semantics of Programming Languages <br>
 A.A. 2014/2015
