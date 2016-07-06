@@ -10,8 +10,7 @@ Intuitively, a string of parentheses is balanced if each left parenthesis has a 
 
 You can find the specifications of functions in the files. <br>
 They can be verified using Frama-C with Jessie plugin.
-
+```
   frama-c-gui parentesi.c
-  
-  
+```
 
